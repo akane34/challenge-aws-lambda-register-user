@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nvif4sySVjJSx4JYzkgrrCrDQixHx1+GeYsmpFVH62cPD3PvBaIF1+tFfEstUG7gJ2FL7cKfsHG+ZxXgV8bLyg==",
+  "success": true,
+  "projectFilePath": "C:\\dv\\workspace\\challenge-aws-lambda-register-user\\challenge-aws-cloud-register-user\\challenge-aws-cloud-register-user.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrivera\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\jrivera\\.nuget\\packages\\amazon.lambda.serialization.json\\2.0.0\\amazon.lambda.serialization.json.2.0.0.nupkg.sha512",
+    "C:\\Users\\jrivera\\.nuget\\packages\\amazon.lambda.snsevents\\2.0.0\\amazon.lambda.snsevents.2.0.0.nupkg.sha512",
+    "C:\\Users\\jrivera\\.nuget\\packages\\awssdk.core\\3.7.0.20\\awssdk.core.3.7.0.20.nupkg.sha512",
+    "C:\\Users\\jrivera\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.20\\awssdk.dynamodbv2.3.7.0.20.nupkg.sha512",
+    "C:\\Users\\jrivera\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
